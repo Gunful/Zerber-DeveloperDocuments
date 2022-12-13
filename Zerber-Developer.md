@@ -17,7 +17,7 @@
 ## Developers
 #### Noah [(GitHub)](https://github.com/noahatzerber) [(Website)](https://noahatzerber.github.io)
 #### eCodingBox (Sean) [(GitHub)](https://github.com/ecodingbox) [(Replit)](https://repl.it/@zerberdev) [(Website)](https://ecodingbox.github.io)
-#### jwklong [(GitHub)](https://github.com/jwklong) [(Replit)](https://repl.it/@
+#### jwklong [(GitHub)](https://github.com/jwklong) [(Replit)](https://repl.it/@jwklong)
 
 ## Links
 #### [GitHub @zerberdev](https://github.com/orgs/zerberdev?tab=repositories)
